@@ -1,5 +1,5 @@
 # String creation
-Name="I am Shubham Rajput"
+Name="I am shyam kumar gupta"
 print(Name)
 #Slicing operation helps to get substring from the original string.
 print("Name[2:4]",Name[2:4])
