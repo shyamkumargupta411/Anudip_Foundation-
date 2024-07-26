@@ -2,7 +2,7 @@
 # Class Creation
 class student:
     print("-----------------------------------------------------CLASS CREATED-------------------------------------------------------")
-    Name="Shubham"
+    Name="Shyam"
     age=0
     def bgmi(self):
         print(self.Name,"plays daily")
